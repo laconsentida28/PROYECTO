@@ -1,0 +1,9 @@
+{
+    "nombre": "Midelly",
+    "apellidos": "Medina",
+    "edad": 31,
+    "correo": "midelli1993@gmail.com",
+    "telefono": 3184986231,
+    "hobbies": ["cocinar", "viajar", "hacer deporte", "canatr"]
+
+}

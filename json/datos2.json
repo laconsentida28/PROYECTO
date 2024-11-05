@@ -1,0 +1,22 @@
+[
+    {
+        "nombre": "Danna Arboleda",
+        "edad": 32,
+        "cuidad": "Cali"
+    },
+    {
+        "nombre": "Angel celorio",
+        "edad": 35,
+        "cuidad": "Armenia"
+    },
+    {
+        "nombre": "Adriana Aldana",
+        "edad": 35,
+        "cuidad": "Medellin"
+    },
+        {
+        "nombre": "Jorge mosquera",
+        "edad": 38,
+        "cuidad": "Esmeralda"
+        }
+]
